@@ -74,7 +74,9 @@ namespace Leap.Unity.Interaction {
     }
 
     private void OnPressed() {
-      //toggled = !toggled;
+      
+            
+            //toggled = !toggled;
     }
   }
 }
